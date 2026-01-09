@@ -1,0 +1,42 @@
+[
+    {
+        "CustomerID": "236c1726-f428-4cad-b08e-5692ddf72fca",
+        "ScientistName": "羅謝爾"
+    },
+    {
+        "CustomerID": "e07e0b1b-7e5c-4f95-830c-9cb4aadd5bac",
+        "ScientistName": "伽利略·伽利莱"
+    },
+    {
+        "CustomerID": "31f5377c-5ca9-4fa4-859d-600fb1fc9806",
+        "ScientistName": "亞伯拉罕·馬斯洛"
+    },
+    {
+        "CustomerID": "b1397855-2e83-40c7-a859-1c0a460845ad",
+        "ScientistName": "亞伯拉罕·馬斯洛"
+    },
+    {
+        "CustomerID": "3ae067bf-1c7d-4f1e-ba02-270689a79876",
+        "ScientistName": "瑪麗·居里"
+    },
+    {
+        "CustomerID": "c43948c4-8fab-481d-9e63-3479c0c1ec11",
+        "ScientistName": "羅謝爾"
+    },
+    {
+        "CustomerID": "4ababcb0-1fa7-4bdc-9381-88ef0c4e53b9",
+        "ScientistName": "查爾斯·巴貝奇"
+    },
+    {
+        "CustomerID": "56d050a9-1eeb-4e20-9c25-43a1d4f7491e",
+        "ScientistName": "伽利略·伽利莱"
+    },
+    {
+        "CustomerID": "662ee3a3-220a-4442-9ffd-0fc44ce59372",
+        "ScientistName": "馬克斯·普朗克"
+    },
+    {
+        "CustomerID": "8f082424-3726-4e7f-bf4c-224ff5bbc228",
+        "ScientistName": "伽利略·伽利莱"
+    }
+]
